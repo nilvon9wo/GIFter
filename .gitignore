@@ -1,3 +1,5 @@
 .sfdx
 .vscode
+etc/notes.txt
+force-app/main/default/staticresources/GIPHY.resource
 scripts
